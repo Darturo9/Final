@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23196FAF-EFF9-4F00-8E59-361216A7AEF6}|Linq_Y_Lambda\\Linq_Y_Lambda.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\linq_y_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23196FAF-EFF9-4F00-8E59-361216A7AEF6}|Linq_Y_Lambda\\Linq_Y_Lambda.csproj|solutionrelative:linq_y_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935A3172-5D1A-4B33-B0A8-30BA00249EA7}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\windowsformsapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{935A3172-5D1A-4B33-B0A8-30BA00249EA7}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF6FA97-06FC-405E-A97A-175B1808BC09}|letrasOrdenadas\\letrasOrdenadas.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\letrasordenadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF6FA97-06FC-405E-A97A-175B1808BC09}|letrasOrdenadas\\letrasOrdenadas.csproj|solutionrelative:letrasordenadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F6653-0A15-418E-8606-467F0DB53662}|Metodo_De_Ordenamineto\\Metodo_De_Ordenamineto.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\metodo_de_ordenamineto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16F6653-0A15-418E-8606-467F0DB53662}|Metodo_De_Ordenamineto\\Metodo_De_Ordenamineto.csproj|solutionrelative:metodo_de_ordenamineto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89E563B-BCCB-47F0-84E7-EE2F138C3AE0}|Programacion_Funcional\\Programacion_Funcional.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\programacion_funcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89E563B-BCCB-47F0-84E7-EE2F138C3AE0}|Programacion_Funcional\\Programacion_Funcional.csproj|solutionrelative:programacion_funcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339A1F7B-CBEB-44E5-B608-5A74AD912014}|Tareas_Asincronas_Sincronas\\Tareas_Asincronas_Sincronas.csproj|c:\\users\\giron\\source\\repos\\windowsformsapp2\\tareas_asincronas_sincronas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339A1F7B-CBEB-44E5-B608-5A74AD912014}|Tareas_Asincronas_Sincronas\\Tareas_Asincronas_Sincronas.csproj|solutionrelative:tareas_asincronas_sincronas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Linq_Y_Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_Y_Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Linq_Y_Lambda\\Program.cs",
+              "RelativeToolTip": "Linq_Y_Lambda\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:35:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\App.config",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\App.config",
+              "RelativeToolTip": "WindowsFormsApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-08T04:14:25.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\letrasOrdenadas\\Program.cs",
+              "RelativeDocumentMoniker": "letrasOrdenadas\\Program.cs",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\letrasOrdenadas\\Program.cs",
+              "RelativeToolTip": "letrasOrdenadas\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:12:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Metodo_De_Ordenamineto\\Program.cs",
+              "RelativeDocumentMoniker": "Metodo_De_Ordenamineto\\Program.cs",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Metodo_De_Ordenamineto\\Program.cs",
+              "RelativeToolTip": "Metodo_De_Ordenamineto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:11:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Programacion_Funcional\\Program.cs",
+              "RelativeDocumentMoniker": "Programacion_Funcional\\Program.cs",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Programacion_Funcional\\Program.cs",
+              "RelativeToolTip": "Programacion_Funcional\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:04:51.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Tareas_Asincronas_Sincronas\\Program.cs",
+              "RelativeDocumentMoniker": "Tareas_Asincronas_Sincronas\\Program.cs",
+              "ToolTip": "C:\\Users\\giron\\source\\repos\\WindowsFormsApp2\\Tareas_Asincronas_Sincronas\\Program.cs",
+              "RelativeToolTip": "Tareas_Asincronas_Sincronas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:03:23.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

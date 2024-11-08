@@ -1,0 +1,14 @@
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\bin\Debug\net8.0\Tareas_Asincronas_Sincronas.exe
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\bin\Debug\net8.0\Tareas_Asincronas_Sincronas.deps.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\bin\Debug\net8.0\Tareas_Asincronas_Sincronas.runtimeconfig.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\bin\Debug\net8.0\Tareas_Asincronas_Sincronas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\bin\Debug\net8.0\Tareas_Asincronas_Sincronas.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.AssemblyInfoInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.AssemblyInfo.cs
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.csproj.CoreCompileInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\refint\Tareas_Asincronas_Sincronas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\Tareas_Asincronas_Sincronas.genruntimeconfig.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Tareas_Asincronas_Sincronas\obj\Debug\net8.0\ref\Tareas_Asincronas_Sincronas.dll

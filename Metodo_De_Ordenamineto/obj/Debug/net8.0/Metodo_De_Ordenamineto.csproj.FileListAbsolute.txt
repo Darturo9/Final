@@ -1,0 +1,14 @@
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\bin\Debug\net8.0\Metodo_De_Ordenamineto.exe
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\bin\Debug\net8.0\Metodo_De_Ordenamineto.deps.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\bin\Debug\net8.0\Metodo_De_Ordenamineto.runtimeconfig.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\bin\Debug\net8.0\Metodo_De_Ordenamineto.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\bin\Debug\net8.0\Metodo_De_Ordenamineto.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.AssemblyInfoInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.AssemblyInfo.cs
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.csproj.CoreCompileInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\refint\Metodo_De_Ordenamineto.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\Metodo_De_Ordenamineto.genruntimeconfig.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Metodo_De_Ordenamineto\obj\Debug\net8.0\ref\Metodo_De_Ordenamineto.dll

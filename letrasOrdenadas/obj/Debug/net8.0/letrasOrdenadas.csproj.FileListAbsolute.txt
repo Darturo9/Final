@@ -1,0 +1,14 @@
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\bin\Debug\net8.0\letrasOrdenadas.exe
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\bin\Debug\net8.0\letrasOrdenadas.deps.json
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\bin\Debug\net8.0\letrasOrdenadas.runtimeconfig.json
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\bin\Debug\net8.0\letrasOrdenadas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\bin\Debug\net8.0\letrasOrdenadas.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.AssemblyInfoInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.AssemblyInfo.cs
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.csproj.CoreCompileInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\refint\letrasOrdenadas.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\letrasOrdenadas.genruntimeconfig.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\letrasOrdenadas\obj\Debug\net8.0\ref\letrasOrdenadas.dll

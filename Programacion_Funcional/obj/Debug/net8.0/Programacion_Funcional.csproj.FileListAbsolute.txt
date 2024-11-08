@@ -1,0 +1,14 @@
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\bin\Debug\net8.0\Programacion_Funcional.exe
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\bin\Debug\net8.0\Programacion_Funcional.deps.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\bin\Debug\net8.0\Programacion_Funcional.runtimeconfig.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\bin\Debug\net8.0\Programacion_Funcional.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\bin\Debug\net8.0\Programacion_Funcional.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.AssemblyInfoInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.AssemblyInfo.cs
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.csproj.CoreCompileInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\refint\Programacion_Funcional.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\Programacion_Funcional.genruntimeconfig.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Programacion_Funcional\obj\Debug\net8.0\ref\Programacion_Funcional.dll

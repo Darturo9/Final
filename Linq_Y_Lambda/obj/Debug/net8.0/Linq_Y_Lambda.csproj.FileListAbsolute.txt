@@ -1,0 +1,14 @@
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\bin\Debug\net8.0\Linq_Y_Lambda.exe
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\bin\Debug\net8.0\Linq_Y_Lambda.deps.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\bin\Debug\net8.0\Linq_Y_Lambda.runtimeconfig.json
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\bin\Debug\net8.0\Linq_Y_Lambda.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\bin\Debug\net8.0\Linq_Y_Lambda.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.AssemblyInfoInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.AssemblyInfo.cs
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\refint\Linq_Y_Lambda.dll
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.pdb
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\Linq_Y_Lambda.genruntimeconfig.cache
+C:\Users\giron\source\repos\WindowsFormsApp2\Linq_Y_Lambda\obj\Debug\net8.0\ref\Linq_Y_Lambda.dll
